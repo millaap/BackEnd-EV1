@@ -12,3 +12,4 @@ python manage.py createsuperuser
 
 
 si no funciona al iniciar escribir: cd .. y hacer migraciones
+oli
